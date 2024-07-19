@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Product>
+
+<h2>Products</h2>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Price</th>
+        <th>Quantity In Stock</th>
+    </tr>
+
+    @foreach (var product in @Model)
+    {
+        <tr>
+            <td>@product.ID</td>
+            <td>@product.Name</td>
+            <td>@product.Description</td>
+            <td>@product.Price</td>
+            <td>@product.Quantity_In_Stock</td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Recipe>
+
+<h2>Recipes</h2>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Product ID</th>
+        <th>Ingredient Id</th>
+        <th>Product Required</th>
+    </tr>
+
+    @foreach (var recipe in @Model)
+    {
+        <tr>
+            <td>@recipe.ID</td>
+            <td>@recipe.Product_ID</td>
+            <td>@recipe.Ingredient_Id</td>
+            <td>@recipe.Quantity_Required</td>
+        </tr>
+    }
+
+</table>
