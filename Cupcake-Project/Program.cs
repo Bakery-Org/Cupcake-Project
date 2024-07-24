@@ -1,3 +1,5 @@
+using Cupcake_Project;
+using Cupcake_Project.Repos;
 using MySql.Data.MySqlClient;
 using System.Data;
 
@@ -8,12 +10,14 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IDbConnection>((s) =>
 {
-    IDbConnection conn = new MySqlConnection(builder.Configuration.GetConnectionString("bestbuy"));
+    IDbConnection conn = new MySqlConnection(builder.Configuration.GetConnectionString("cupcake"));
     conn.Open();
     return conn;
 });
 
-builder.Services.AddTransient<IProductRepository, ProductRepository>();
+builder.Services.AddTransient<IProductRepo, ProductRepo>();
+builder.Services.AddTransient<IIngredientRepo, IngredientRepo>();
+builder.Services.AddTransient<IRecipeRepo, RecipeRepo>();
 
 var app = builder.Build();
 

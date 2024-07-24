@@ -7,3 +7,12 @@ C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0
 C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.RazorAssemblyInfo.cache
 C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.RazorAssemblyInfo.cs
 C:\Users\Holli\OneDrive\Desktop\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.sourcelink.json
+C:\Users\Kaitlyn\repos\Cupcake-Project\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.csproj.AssemblyReference.cache
+C:\Users\Kaitlyn\repos\Cupcake-Project\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaitlyn\repos\Cupcake-Project\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.AssemblyInfoInputs.cache
+C:\Users\Kaitlyn\repos\Cupcake-Project\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.AssemblyInfo.cs
+C:\Users\Kaitlyn\repos\Cupcake-Project\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.csproj.CoreCompileInputs.cache
+C:\Users\Kaitlyn\repos\Cupcake-Project\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaitlyn\repos\Cupcake-Project\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.RazorAssemblyInfo.cache
+C:\Users\Kaitlyn\repos\Cupcake-Project\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.RazorAssemblyInfo.cs
+C:\Users\Kaitlyn\repos\Cupcake-Project\Cupcake-Project\Cupcake-Project\obj\Debug\net8.0\Cupcake-Project.sourcelink.json
