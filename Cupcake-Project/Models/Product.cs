@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Testing.Models
+namespace Cupcake_Project.Models
 {
 	public class Product
 	{

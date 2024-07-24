@@ -1642,19 +1642,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cydne\\.nuget\\packages\\": {}
+    "C:\\Users\\jshad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
+      "projectUniqueName": "C:\\Users\\jshad\\Desktop\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
       "projectName": "Cupcake-Project",
-      "projectPath": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
-      "packagesPath": "C:\\Users\\cydne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\obj\\",
+      "projectPath": "C:\\Users\\jshad\\Desktop\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
+      "packagesPath": "C:\\Users\\jshad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jshad\\Desktop\\repos\\Cupcake-Project\\Cupcake-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cydne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jshad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1662,7 +1662,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1714,7 +1713,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,7 +1,7 @@
 ﻿using Cupcake_Project;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Testing.Controllers
+namespace Cupcake_Project.Controllers
 {
     public class ProductController : Controller
     {

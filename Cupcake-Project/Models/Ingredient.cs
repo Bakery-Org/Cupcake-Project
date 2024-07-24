@@ -1,9 +1,9 @@
 ﻿using Org.BouncyCastle.Asn1.Mozilla;
 using System;
 
-
-namespace Testing.Models
+namespace Cupcake_Project.Models
 {
+
 	public class Ingredient
 	{
 		public Ingredient()
@@ -15,4 +15,5 @@ namespace Testing.Models
 		public int Ingredient_ID { get; set; }
 		public int Quantity_Required { get; set; }
 	}
+
 }
