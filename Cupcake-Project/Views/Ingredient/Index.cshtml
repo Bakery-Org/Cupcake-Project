@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Ingredient>
+
+<h2>Ingredients</h2>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Unit of Measurement</th>
+        <th>Quantity In Stock</th>
+    </tr>
+
+    @foreach (var ingredient in @Model)
+    {
+        <tr>
+            <td>@ingredient.ID</td>
+            <td>@ingredient.Name</td>
+            <td>@ingredient.Description</td>
+            <td>@ingredient.Unit_of_Measurement</td>
+            <td>@ingredient.Quantity_in_stock</td>
+        </tr>
+    }
+
+</table>

@@ -11,9 +11,10 @@ namespace Cupcake_Project.Models
 		}
 
 		public int ID { get; set; }
-		public int Product_ID { get; set; }
-		public int Ingredient_ID { get; set; }
-		public int Quantity_Required { get; set; }
+		public string Name { get; set; }
+		public string Description { get; set; }
+		public string Unit_of_Measurement { get; set; }
+		public int Quantity_in_stock { get; set; }
 	}
 
 }

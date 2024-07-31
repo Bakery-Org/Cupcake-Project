@@ -14,7 +14,7 @@ namespace Cupcake_Project.Repos
 		}
 		public IEnumerable<Ingredient> GetAllIngredients()
 		{
-			return _connection.Query<Ingredient>("SELECT * FROM INGREDIENTS;");
+			return _connection.Query<Ingredient>("SELECT * FROM Ingredients;");
 		}
 	}
 }

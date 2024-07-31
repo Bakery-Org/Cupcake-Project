@@ -14,7 +14,7 @@ namespace Cupcake_Project.Repos
 		}
 		public IEnumerable<Product> GetAllProducts()
 		{
-			return _connection.Query<Product>("SELECT * FROM PRODUCTS;");
+			return _connection.Query<Product>("SELECT * FROM Products;");
 		}
 	}
 }

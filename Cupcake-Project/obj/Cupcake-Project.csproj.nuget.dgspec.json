@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jshad\\Desktop\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj": {}
+    "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jshad\\Desktop\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj": {
+    "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jshad\\Desktop\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
+        "projectUniqueName": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
         "projectName": "Cupcake-Project",
-        "projectPath": "C:\\Users\\jshad\\Desktop\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
-        "packagesPath": "C:\\Users\\jshad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jshad\\Desktop\\repos\\Cupcake-Project\\Cupcake-Project\\obj\\",
+        "projectPath": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
+        "packagesPath": "C:\\Users\\Holli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jshad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Holli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -14,7 +14,7 @@ namespace Cupcake_Project.Repos
 		}
 		public IEnumerable<Recipe> GetAllRecipes()
 		{
-			return _connection.Query<Recipe>("SELECT * FROM RECIPES;");
+			return _connection.Query<Recipe>("SELECT * FROM Recipes;");
 		}
 	}
 }
