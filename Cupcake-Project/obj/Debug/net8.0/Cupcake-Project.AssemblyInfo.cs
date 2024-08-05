@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cupcake-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ec8f2c67e3816553f15b4702c50d7a80d61ca46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6bda76f402da1c3416d52e84cbb462baba4058d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cupcake-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cupcake-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
