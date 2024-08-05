@@ -22,9 +22,14 @@ namespace Cupcake_Project.Repos
 			return _connection.QuerySingle<Product>("SELECT * FROM Products WHERE id = @id", new { id });
 		}
 
-		public void UpdateProduct(Product Product)
+		public void UpdateProduct(Product product)
 		{
-			_connection.Execute("UPDATE Products SET Name =@name, Description = @description, Price =@price, Quantity_In_Stock = @quantity_in_stock WHERE ID= @id", new {name = Product.Name, description = Product.Description, price = Product.Price, quantity_in_stock = Product.Quantity_In_Stock, id = Product.ID});
+			_connection.Execute("UPDATE Products SET Name =@name, Description = @description, Price =@price, Quantity_In_Stock = @quantity_in_stock WHERE ID= @id", new {name = product.Name, description = product.Description, price = product.Price, quantity_in_stock = product.Quantity_In_Stock, id = product.ID});
+		}
+
+		public void InsertProduct(Product product)
+		{
+			_connection.Execute("INSERT INTO Products (Name, Description, Price, Quantity_In_Stock) VALUES (@name, @description, @price, @quantity_in_stock);", new { name = product.Name, description = product.Description, price = product.Price, quantity_in_stock = product.Quantity_In_Stock });
 		}
 	}
 }

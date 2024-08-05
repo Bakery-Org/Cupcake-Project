@@ -43,6 +43,17 @@ namespace Cupcake_Project.Controllers
             repo.UpdateProduct(product);
             return RedirectToAction("ViewProduct", new { id = product.ID });
         }
+
+        public IActionResult InsertProduct(Product product)
+        {
+
+            return View(product);
+        }
+        public IActionResult InsertProductToDatabase(Product product)
+        {
+            repo.InsertProduct(product);
+            return RedirectToAction("Index");
+        }
     }
     
 }
