@@ -22,3 +22,12 @@
 <div style="display: block">
     <a href="/Ingredient/UpdateIngredient/@Model.ID">Update this Ingredient</a>
 </div>
+
+<div style="display: block">
+
+    @using (Html.BeginForm("DeleteIngredient", "Ingredient", "Post"))
+    {
+        <input type="hidden" asp-for="ID" value="@Model.ID" />
+        <input type="submit" onclick="return confirm('Are you sure?')" value="Delete this Ingredient" />
+    }
+</div>

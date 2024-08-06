@@ -40,6 +40,11 @@ namespace Cupcake_Project.Repos
             _connection.Execute("UPDATE Ingredients SET id = @id, name = @name, description = @description, unit_of_measurement = @unit_of_measurement, quantity_in_stock = @quantity_in_stock WHERE ProductID = @id",
                 new { id = ingredient.ID, name = ingredient.Name, description = ingredient.Description, unit_of_measurement = ingredient.Unit_of_Measurement, quantity_in_stock = ingredient.Quantity_in_stock });
         }
+
+        public void DeleteProduct(Product product)
+        {
+            _connection.Execute("DELETE FROM Ingredient WHERE ID = @id;", new { id = product.ID });
+        }
     }
 }
 

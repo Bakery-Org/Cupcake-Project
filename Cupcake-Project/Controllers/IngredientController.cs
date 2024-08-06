@@ -53,5 +53,11 @@ namespace Cupcake_Project.Controllers
             repo.InsertIngredient(ingredient);
             return RedirectToAction("Index");
         }
+
+        public IActionResult DeleteIngredient(Ingredient ingredient)
+        {
+            repo.DeleteIngredient(ingredient);
+            return RedirectToAction("Index");
+        }
     }
 }
