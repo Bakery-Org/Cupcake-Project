@@ -1,0 +1,20 @@
+﻿@model Ingredient
+
+<h3>@Model.Name Information</h3>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Unit of Measurement</th>
+        <th>Quantity in Stock</th>
+    </tr>
+    <tr>
+        <td>@Model.ID</td>
+        <td>@Model.Name</td>
+        <td>@Model.Description</td>
+        <td>@Model.Unit_of_Measurement</td>
+        <td>@Model.Quantity_in_stock</td>
+    </tr>
+</table>

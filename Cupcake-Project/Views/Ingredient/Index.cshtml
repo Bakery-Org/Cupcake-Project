@@ -13,7 +13,7 @@
     @foreach (var ingredient in @Model)
     {
         <tr>
-            <td>@ingredient.ID</td>
+            <td><a href=/Ingredient/ViewIngredient/@ingredient.ID>@ingredient.ID</a></td>
             <td>@ingredient.Name</td>
             <td>@ingredient.Description</td>
             <td>@ingredient.Unit_of_Measurement</td>

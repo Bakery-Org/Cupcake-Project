@@ -12,11 +12,16 @@ namespace Cupcake_Project.Controllers
             this.repo = repo;
         }
 
-
         public IActionResult Index()
         {
             var ingredients = repo.GetAllIngredients();
             return View(ingredients);
+        }
+
+        public IActionResult ViewIngredient(int id)
+        {
+            var ingredient = repo.GetIngredient(id);
+            return View(ingredient);
         }
     }
 }
