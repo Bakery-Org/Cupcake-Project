@@ -31,7 +31,8 @@ namespace Cupcake_Project.Repos
 
         public void InsertIngredient(Ingredient ingredient)
         {
-            throw new NotImplementedException();
+            _connection.Execute("INSERT INTO Ingredients ( id, Name, Description, Unit_of_Measurement, Quantity_In_stock) VALUES (@name, @description, @price, @quantity_in_stock);", 
+                new { id = ingredient.ID, name = ingredient.Name, description = ingredient.Description, unit_of_measruemenr = ingredient.Unit_of_Measurement, quantity_in_stock = ingredient.Quantity_in_stock });
         }
 
         public void UpdateIngredient(Ingredient ingredient)

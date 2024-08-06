@@ -49,6 +49,7 @@ namespace Cupcake_Project.Controllers
 
             return View(product);
         }
+
         public IActionResult InsertProductToDatabase(Product product)
         {
             repo.InsertProduct(product);

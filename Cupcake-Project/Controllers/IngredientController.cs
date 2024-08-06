@@ -41,5 +41,17 @@ namespace Cupcake_Project.Controllers
 
             return RedirectToAction("ViewIngredient", new { id = ingredient.ID });
         }
+
+        public IActionResult InsertIngredient(Ingredient ingredient)
+        {
+
+            return View(ingredient);
+        }
+
+        public IActionResult InsertIngredientToDatabase(Ingredient ingredient)
+        {
+            repo.InsertIngredient(ingredient);
+            return RedirectToAction("Index");
+        }
     }
 }

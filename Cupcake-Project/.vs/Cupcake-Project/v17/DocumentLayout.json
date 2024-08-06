@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\repos\\ingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:repos\\ingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\repos\\interfaces\\iingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:repos\\interfaces\\iingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\views\\ingredient\\insertingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\ingredient\\insertingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\views\\ingredient\\updateingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\ingredient\\updateingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\views\\ingredient\\viewingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\ingredient\\viewingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\views\\ingredient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\ingredient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\repos\\ingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:repos\\ingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\repos\\interfaces\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:repos\\interfaces\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\repos\\interfaces\\iingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:repos\\interfaces\\iingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\holli\\onedrive\\desktop\\cupcake-project\\cupcake-project\\cupcake-project\\views\\ingredient\\viewingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\ingredient\\viewingredient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,19 +75,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InsertIngredient.cshtml",
+              "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Ingredient\\InsertIngredient.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ingredient\\InsertIngredient.cshtml",
+              "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Ingredient\\InsertIngredient.cshtml",
+              "RelativeToolTip": "Views\\Ingredient\\InsertIngredient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T19:38:04.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "Repos\\ProductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:32:56.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:30:07.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IngredientController.cs",
               "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Controllers\\IngredientController.cs",
               "RelativeDocumentMoniker": "Controllers\\IngredientController.cs",
               "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Controllers\\IngredientController.cs",
               "RelativeToolTip": "Controllers\\IngredientController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T18:41:31.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "IngredientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\IngredientRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\IngredientRepo.cs",
+              "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\IngredientRepo.cs",
+              "RelativeToolTip": "Repos\\IngredientRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:38:53.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\Interfaces\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\Interfaces\\IProductRepo.cs",
+              "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\Interfaces\\IProductRepo.cs",
+              "RelativeToolTip": "Repos\\Interfaces\\IProductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:37:00.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IIngredientRepo.cs",
               "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\Interfaces\\IIngredientRepo.cs",
               "RelativeDocumentMoniker": "Repos\\Interfaces\\IIngredientRepo.cs",
@@ -79,25 +160,11 @@
               "RelativeToolTip": "Repos\\Interfaces\\IIngredientRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T18:37:10.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T18:37:10.291Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IngredientRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\IngredientRepo.cs",
-              "RelativeDocumentMoniker": "Repos\\IngredientRepo.cs",
-              "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\IngredientRepo.cs",
-              "RelativeToolTip": "Repos\\IngredientRepo.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwCsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T18:38:53.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UpdateIngredient.cshtml",
               "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Ingredient\\UpdateIngredient.cshtml",
               "RelativeDocumentMoniker": "Views\\Ingredient\\UpdateIngredient.cshtml",
@@ -110,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ViewIngredient.cshtml",
               "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Ingredient\\ViewIngredient.cshtml",
               "RelativeDocumentMoniker": "Views\\Ingredient\\ViewIngredient.cshtml",
@@ -118,33 +185,33 @@
               "RelativeToolTip": "Views\\Ingredient\\ViewIngredient.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T18:42:43.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T18:42:43.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Ingredient\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Ingredient\\Index.cshtml",
               "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Ingredient\\Index.cshtml",
               "RelativeToolTip": "Views\\Ingredient\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-06T18:47:02.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\Interfaces\\IProductRepo.cs",
-              "RelativeDocumentMoniker": "Repos\\Interfaces\\IProductRepo.cs",
-              "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\Interfaces\\IProductRepo.cs",
-              "RelativeToolTip": "Repos\\Interfaces\\IProductRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T18:37:00.246Z"
+              "DocumentIndex": 4,
+              "Title": "InsertProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Product\\InsertProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\InsertProduct.cshtml",
+              "ToolTip": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Product\\InsertProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\InsertProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T19:38:06.48Z",
+              "EditorCaption": ""
             }
           ]
         }

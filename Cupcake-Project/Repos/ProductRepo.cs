@@ -24,12 +24,14 @@ namespace Cupcake_Project.Repos
 
 		public void UpdateProduct(Product product)
 		{
-			_connection.Execute("UPDATE Products SET Name =@name, Description = @description, Price =@price, Quantity_In_Stock = @quantity_in_stock WHERE ID= @id", new {name = product.Name, description = product.Description, price = product.Price, quantity_in_stock = product.Quantity_In_Stock, id = product.ID});
+			_connection.Execute("UPDATE Products SET Name =@name, Description = @description, Price =@price, Quantity_In_Stock = @quantity_in_stock WHERE ID= @id", 
+				new {name = product.Name, description = product.Description, price = product.Price, quantity_in_stock = product.Quantity_In_Stock, id = product.ID});
 		}
 
 		public void InsertProduct(Product product)
 		{
-			_connection.Execute("INSERT INTO Products (Name, Description, Price, Quantity_In_Stock) VALUES (@name, @description, @price, @quantity_in_stock);", new { name = product.Name, description = product.Description, price = product.Price, quantity_in_stock = product.Quantity_In_Stock });
+			_connection.Execute("INSERT INTO Products (Name, Description, Price, Quantity_In_Stock) VALUES (@name, @description, @price, @quantity_in_stock);", 
+				new { name = product.Name, description = product.Description, price = product.Price, quantity_in_stock = product.Quantity_In_Stock });
 		}
 
 		public void DeleteProduct(Product product)

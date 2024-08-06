@@ -1,0 +1,24 @@
+﻿@model Ingredient
+
+<h2 class="text-center">Create a New Ingredient</h2>
+
+@using (Html.BeginForm("InsertIngredientToDatabase", "Ingredient", "Post"))
+{
+    <input asp-for="ID" type="hidden" value="" />
+
+    <label asp-for="Name" class="control-label">Name</label>
+    <input type="text" name="Name" class="form-control" value="" />
+
+    <label asp-for="Description" class="control-label">Description</label>
+    <input type="text" name="Description" class="form-control" value="" />
+
+    <label asp-for="Unit_of_Measurement" class="control-label">Unit of Measurement</label>
+    <input type="number" name="Unit_of_Measruement" class="form-control" />
+
+    <label asp-for="Quantity_in_stock" class="control-label">Quantity In Stock</label>
+    <input type="number" name="Quantity_in_stock" class="form-control" />
+
+
+    <button class="button" role="button" type="submit">Add Ingredient</button>
+    <a class="button" href="/Ingredient/Index">Back</a>
+}
