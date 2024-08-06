@@ -16,5 +16,10 @@ namespace Cupcake_Project.Repos
 		{
 			return _connection.Query<Recipe>("SELECT * FROM Recipes;");
 		}
-	}
+
+        public Recipe GetRecipe(int id)
+        {
+            return _connection.QuerySingle<Recipe>("SELECT * FROM Recipes WHERE id = @id", new { id });
+        }
+    }
 }

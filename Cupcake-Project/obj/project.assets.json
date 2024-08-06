@@ -1642,19 +1642,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Holli\\.nuget\\packages\\": {}
+    "C:\\Users\\jshad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
+      "projectUniqueName": "C:\\Users\\jshad\\Desktop\\repos\\BakeryProject\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
       "projectName": "Cupcake-Project",
-      "projectPath": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
-      "packagesPath": "C:\\Users\\Holli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Holli\\OneDrive\\Desktop\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\obj\\",
+      "projectPath": "C:\\Users\\jshad\\Desktop\\repos\\BakeryProject\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project.csproj",
+      "packagesPath": "C:\\Users\\jshad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jshad\\Desktop\\repos\\BakeryProject\\Cupcake-Project\\Cupcake-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Holli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jshad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

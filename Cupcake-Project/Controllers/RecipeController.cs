@@ -18,5 +18,10 @@ namespace Cupcake_Project.Controllers
             var recipe = repo.GetAllRecipes();
             return View(recipe);
         }
+        public IActionResult ViewRecipe(int id)
+        {
+            var recipe = repo.GetRecipe(id);
+            return View(recipe);
+        }
     }
 }

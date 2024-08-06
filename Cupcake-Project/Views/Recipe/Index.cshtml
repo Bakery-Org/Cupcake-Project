@@ -5,14 +5,14 @@
     <tr>
         <th>ID</th>
         <th>Product ID</th>
-        <th>Ingredient Id</th>
-        <th>Product Required</th>
+        <th>Ingredient ID</th>
+        <th>Quantity Required</th>
     </tr>
 
     @foreach (var recipe in @Model)
     {
         <tr>
-            <td>@recipe.ID</td>
+            <td><a href=/Recipe/ViewRecipe/@recipe.ID>@recipe.ID</a></td>
             <td>@recipe.Product_ID</td>
             <td>@recipe.Ingredient_ID</td>
             <td>@recipe.Quantity_Required</td>
