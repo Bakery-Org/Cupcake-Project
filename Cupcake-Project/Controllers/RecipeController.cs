@@ -38,5 +38,15 @@ namespace Cupcake_Project.Controllers
             repo.UpdateRecipe(recipe);
             return RedirectToAction("ViewRecipe", new { id = recipe.ID });
         }
+        public IActionResult InsertRecipe()
+        {
+            var recipe = new Recipe();
+            return View(recipe);
+        }
+        public IActionResult InsertRecipeToDatabase(Recipe recipe)
+        {
+            repo.InsertRecipe(recipe);
+            return RedirectToAction("Index");
+        }
     }
 }

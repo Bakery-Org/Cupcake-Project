@@ -44,9 +44,9 @@ namespace Cupcake_Project.Controllers
             return RedirectToAction("ViewProduct", new { id = product.ID });
         }
 
-        public IActionResult InsertProduct(Product product)
+        public IActionResult InsertProduct()
         {
-
+            var product = new Product();
             return View(product);
         }
 

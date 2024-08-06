@@ -42,9 +42,9 @@ namespace Cupcake_Project.Controllers
             return RedirectToAction("ViewIngredient", new { id = ingredient.ID });
         }
 
-        public IActionResult InsertIngredient(Ingredient ingredient)
+        public IActionResult InsertIngredient()
         {
-
+            var ingredient = new Ingredient();
             return View(ingredient);
         }
 
