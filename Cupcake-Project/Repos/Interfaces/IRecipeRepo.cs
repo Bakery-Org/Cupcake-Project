@@ -6,6 +6,7 @@ namespace Cupcake_Project
 	{
 		public IEnumerable<Recipe> GetAllRecipes();
 		public Recipe GetRecipe(int id);
+		public void UpdateRecipe(Recipe recipe);
 	}
 
 

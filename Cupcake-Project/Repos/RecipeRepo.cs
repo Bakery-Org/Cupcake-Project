@@ -21,5 +21,10 @@ namespace Cupcake_Project.Repos
         {
             return _connection.QuerySingle<Recipe>("SELECT * FROM Recipes WHERE id = @id", new { id });
         }
+		public void UpdateRecipe (Recipe recipe)
+		{
+			_connection.Execute("UPDATE Recipes SET product_id = @product_id, ingredient_id = @ingredient_id, quantity_required = @quantity_required WHERE id = @id",
+				new {product_id = recipe.Product_ID, ingredient_id = recipe.Ingredient_ID, quantity_required = recipe.Quantity_Required, id = recipe.ID });
+		}
     }
 }
