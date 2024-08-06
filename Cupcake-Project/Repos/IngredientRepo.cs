@@ -43,7 +43,7 @@ namespace Cupcake_Project.Repos
 
         public void DeleteProduct(Product product)
         {
-            _connection.Execute("DELETE FROM Ingredient WHERE ID = @id;", new { id = product.ID });
+            _connection.Execute("DELETE FROM Ingredients WHERE ID = @id;", new { id = product.ID });
         }
     }
 }

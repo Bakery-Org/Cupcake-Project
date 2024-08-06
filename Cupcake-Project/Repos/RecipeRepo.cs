@@ -12,7 +12,13 @@ namespace Cupcake_Project.Repos
 		{
 			_connection = connection;
 		}
-		public IEnumerable<Recipe> GetAllRecipes()
+
+        public void DeleteRecipe(Recipe recipe)
+        {
+			_connection.Execute("DELETE FROM Recipes WHERE id = @id", new { id = recipe.ID });
+        }
+
+        public IEnumerable<Recipe> GetAllRecipes()
 		{
 			return _connection.Query<Recipe>("SELECT * FROM Recipes;");
 		}

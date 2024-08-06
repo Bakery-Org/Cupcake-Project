@@ -8,6 +8,7 @@ namespace Cupcake_Project
 		public Recipe GetRecipe(int id);
 		public void UpdateRecipe(Recipe recipe);
 		public void InsertRecipe (Recipe recipe);
+		public void DeleteRecipe (Recipe recipe);
 	}
 
 
