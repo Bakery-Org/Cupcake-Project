@@ -10,6 +10,8 @@ namespace Cupcake_Project
 		public void UpdateProduct(Product product);
 
 		public void InsertProduct(Product product);
+
+		public void DeleteProduct(Product product);
 	}
 
 

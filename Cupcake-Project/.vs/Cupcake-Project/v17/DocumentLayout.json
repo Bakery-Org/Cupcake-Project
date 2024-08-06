@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\views\\product\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\product\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\repos\\interfaces\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:repos\\interfaces\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\views\\product\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\product\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\repos\\ingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|c:\\users\\kaitlyn\\repos\\cupcake-project\\cupcake-project\\cupcake-project\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CCF6B9AC-E4B5-4412-8995-A4EA93E5EEBA}|Cupcake-Project.csproj|solutionrelative:views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -94,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,20 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-06T18:24:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "InsertProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Product\\InsertProduct.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\InsertProduct.cshtml",
               "ToolTip": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Product\\InsertProduct.cshtml",
               "RelativeToolTip": "Views\\Product\\InsertProduct.cshtml",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-05T20:42:20.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UpdateProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Product\\UpdateProduct.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\UpdateProduct.cshtml",
@@ -127,19 +144,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ViewProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Product\\ViewProduct.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\ViewProduct.cshtml",
               "ToolTip": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Product\\ViewProduct.cshtml",
               "RelativeToolTip": "Views\\Product\\ViewProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCUAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T17:23:53.109Z"
+              "WhenOpened": "2024-08-05T17:23:53.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Models\\Ingredient.cs",
               "RelativeDocumentMoniker": "Models\\Ingredient.cs",
@@ -151,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IngredientRepo.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\IngredientRepo.cs",
               "RelativeDocumentMoniker": "Repos\\IngredientRepo.cs",
@@ -163,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IngredientController.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Controllers\\IngredientController.cs",
               "RelativeDocumentMoniker": "Controllers\\IngredientController.cs",
@@ -175,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Ingredient\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Ingredient\\Index.cshtml",
@@ -187,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "RecipeRepo.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\RecipeRepo.cs",
               "RelativeDocumentMoniker": "Repos\\RecipeRepo.cs",
@@ -199,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -211,20 +229,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\ProductRepo.cs",
               "RelativeDocumentMoniker": "Repos\\ProductRepo.cs",
               "ToolTip": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\ProductRepo.cs",
               "RelativeToolTip": "Repos\\ProductRepo.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAQwBoAAACjAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T20:49:53.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -236,19 +254,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T23:49:57.14Z"
+              "WhenOpened": "2024-07-18T23:49:57.14Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
@@ -256,12 +275,11 @@
               "RelativeToolTip": "Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAQwAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T23:40:52.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T23:40:52.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Views\\Recipe\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Recipe\\Index.cshtml",
@@ -273,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Models\\Recipe.cs",
               "RelativeDocumentMoniker": "Models\\Recipe.cs",
@@ -285,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IRecipeRepo.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\Interfaces\\IRecipeRepo.cs",
               "RelativeDocumentMoniker": "Repos\\Interfaces\\IRecipeRepo.cs",
@@ -303,14 +321,14 @@
               "RelativeDocumentMoniker": "Repos\\Interfaces\\IProductRepo.cs",
               "ToolTip": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\Interfaces\\IProductRepo.cs",
               "RelativeToolTip": "Repos\\Interfaces\\IProductRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T20:43:09.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IIngredientRepo.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Repos\\Interfaces\\IIngredientRepo.cs",
               "RelativeDocumentMoniker": "Repos\\Interfaces\\IIngredientRepo.cs",
@@ -322,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -330,12 +348,11 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T20:32:37.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T20:32:37.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "RecipeController.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Controllers\\RecipeController.cs",
               "RelativeDocumentMoniker": "Controllers\\RecipeController.cs",
@@ -347,13 +364,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Kaitlyn\\repos\\Cupcake-Project\\Cupcake-Project\\Cupcake-Project\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAkwC8AAAAJAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwD8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T23:52:13.519Z",
               "EditorCaption": ""

@@ -31,5 +31,10 @@ namespace Cupcake_Project.Repos
 		{
 			_connection.Execute("INSERT INTO Products (Name, Description, Price, Quantity_In_Stock) VALUES (@name, @description, @price, @quantity_in_stock);", new { name = product.Name, description = product.Description, price = product.Price, quantity_in_stock = product.Quantity_In_Stock });
 		}
+
+		public void DeleteProduct(Product product)
+		{
+			_connection.Execute("DELETE FROM Products WHERE ID = @id;", new { id = product.ID });
+		}
 	}
 }
