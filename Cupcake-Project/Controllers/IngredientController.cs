@@ -1,4 +1,5 @@
 ﻿using Cupcake_Project;
+using Cupcake_Project.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Cupcake_Project.Controllers
@@ -22,6 +23,23 @@ namespace Cupcake_Project.Controllers
         {
             var ingredient = repo.GetIngredient(id);
             return View(ingredient);
+        }
+
+        public IActionResult UpdateIngredient(int id)
+        {
+            Ingredient ingredient = repo.GetIngredient(id);
+            if (ingredient == null)
+            {
+                return View("IngredientNotFound");
+            }
+            return View(ingredient);
+        }
+
+        public IActionResult UpdateIngredientToDatabase(Ingredient ingredient)
+        {
+            repo.UpdateIngredient(ingredient);
+
+            return RedirectToAction("ViewIngredient", new { id = ingredient.ID });
         }
     }
 }
