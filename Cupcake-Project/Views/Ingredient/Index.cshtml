@@ -8,21 +8,17 @@
 
 <table class="table">
     <tr>
-        <th>ID</th>
         <th>Name</th>
-        <th>Description</th>
-        <th>Unit of Measurement</th>
         <th>Quantity In Stock</th>
+        <th>Unit of Measurement</th>
     </tr>
 
     @foreach (var ingredient in @Model)
     {
         <tr>
-            <td><a href=/Ingredient/ViewIngredient/@ingredient.ID>@ingredient.ID</a></td>
-            <td>@ingredient.Name</td>
-            <td>@ingredient.Description</td>
-            <td>@ingredient.Unit_of_Measurement</td>
+            <td><a href=/Ingredient/ViewIngredient/@ingredient.ID>@ingredient.Name</a></td>
             <td>@ingredient.Quantity_in_stock</td>
+            <td>@ingredient.Unit_of_Measurement</td>
         </tr>
     }
 
